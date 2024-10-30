@@ -1,4 +1,4 @@
-# Chat-gpt-clone
+# Chat-GPT-clone
 
 # link
 https://chat-gpt-clone-bhushan-shrirame.vercel.app/
